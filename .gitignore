@@ -1,0 +1,6 @@
+# Hide Twitter keys from public
+/Projects/proj1/keys.json
+
+# ignore zipfiles
+
+*.zip
